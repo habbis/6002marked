@@ -1,79 +1,79 @@
 
-* ### Markedsføring leksjon 2 
+*  Markedsføring leksjon 2 
 ** 20 August 2017
 
 
 
-*  Strategisk planlegging
-** Hvor vil vi
-** Hvordan kommer vi dit
-** velge måø og virkemidler
-** Flere nivåer:
+**  Strategisk planlegging
+- Hvor vil vi
+- Hvordan kommer vi dit
+- velge måø og virkemidler
+- Flere nivåer:
 -konsern, divisjon, forretningsområde, produkt, markedsområdet,
 kunde.
 
-* Valg av strategi
-** Bestemmes ut fra:
-** posisjons i bransjen
-** målsettinger
-** muligheter og ressurser
-** eksempel Grindberg trevare:
+** Valg av strategi
+- Bestemmes ut fra:
+- posisjons i bransjen
+- målsettinger
+- muligheter og ressurser
+- eksempel Grindberg trevare:
 [[https://www.grindberg.no][Grindberg]]
-* Faser i strategisk planleggingsprosess
-** visjon, forretningside
-** ekstern analyse
-** intern analyse
-** målformulering
-** strategiformulering
-** utvikle av program
-** gjennomføring
-** tilbakemelding og kontroll
+** Faser i strategisk planleggingsprosess
+- visjon, forretningside
+- ekstern analyse
+- intern analyse
+- målformulering
+- strategiformulering
+- utvikle av program
+- gjennomføring
+- tilbakemelding og kontroll
 
-* visjon og premissene
-
+** visjon og premissene
+  
 Bilde
 
-* egenskaper ved visjon
-** Begrenset antall målsettinger
-** Fremheve de viktigste verdiene
-** Definere Viktigste konkurransearenaer
-** Langsiktig perspektiv (10-20 år)
-** korte, lette å huske relevante
+** egenskaper ved visjon
+- Begrenset antall målsettinger
+- Fremheve de viktigste verdiene
+- Definere Viktigste konkurransearenaer
+- Langsiktig perspektiv (10-20 år)
+- korte, lette å huske relevante
 
-* Forretningsideen
-** Hva er produktet
-** Hvem er kunden
-** Hvilke behov dekker produkteme
-** Vi skal tilfredsstille kunder- ikke produsere varer
+** Forretningsideen
+- Hva er produktet
+- Hvem er kunden
+- Hvilke behov dekker produkteme
+- Vi skal tilfredsstille kunder- ikke produsere varer
 
-* Mål
-** Mål må være
-*** -Høye, men oppnåelige
-*** -Konkrete, kvantifiserbare
-*** -Hierarkiske
-*** -Konsekvente
+** Mål
+- Mål må være
+- Høye, men oppnåelige
+- Konkrete, kvantifiserbare
+- Hierarkiske
+- Konsekvente
 
-* Etablere strategiske forretningsenheter
+** Etablere strategiske forretningsenheter
 
-** Virksomhet eller gruppe av virksomheter innen foretaket/bedriften
-** Egen sett med konkurrenter
-** Eget lederskap med strategiansvar
+- Virksomhet eller gruppe av virksomheter innen foretaket/bedriften
+- Egen sett med konkurrenter
+- Eget lederskap med strategiansvar
 
-* Vekstmuligheter
-** Intensiv vekst
-** Vekst ved integrasjon
-** Diversifiseringsvekst
+** Vekstmuligheter
+- Intensiv vekst
+- Vekst ved integrasjon
+- Diversifiseringsvekst
 
 
 * Sjekkliste SWOT-analyse
-** Ekstern analyse
-*** Mikromarkedssytemet
-**** Mikromarkedssystemet
+** Ekstern analyse:
+
+** Mikromarkedssystemet
 - Leverandærer
 - Konkurenter
 - Mellomledd(distributører)
 - Kundegrupper
-**** Offentligetssytemet
+** Offentligetssytemet
 - Bedriftsinterne grupper
 - Offentlige instanser
 - Massemedia
@@ -81,8 +81,8 @@ Bilde
 - Eksterne aksjonsgrupper
 - Publikum generelt
 
-* Fortsettelse ekstern analyse
-
+** Fortsettelse ekstern analyse:
+  
 ** Makromarkedssystemet
 - Demografiske faktorer
 - Økonomiske faktorer
@@ -90,8 +90,8 @@ Bilde
 - Naturressurser
 - Kulturelle faktorer
 - Teknologiske faktorer
-
-* Intern analyse
+  
+** Intern analyse
 - Produkter/sortiment
 - Markedføring ellers
 - Økonomi, finansiell situasjon
@@ -99,16 +99,16 @@ Bilde
 - Organisasjon/personalressurser
 - Annet (lokalisering m.m)
 
-* Overordnede strategivalg
+** Overordnede strategivalg
 - Generiske strategier (M. Porter)
 - Ansoff's ekspansjonsmatrise/Produkt-Markedsmatrisen
 - Konkurrentvudert strategi
 
-* Strategiske hovedvalg
+** Strategiske hovedvalg
 - Bilde
 
 
-* Strategiske allianser
+** Strategiske allianser
 - Produkt- /Tjenesteallianer
 - Markedsføringsallinaser
 - Logistikkalianser
