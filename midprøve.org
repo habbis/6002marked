@@ -1,0 +1,300 @@
+* Midtprøve 
+
+
+** DONE Spørsmål 1 
+
+En av typene problemløsning under er vanligvis ikke type en bruker for å karakterisere kjøpsbeslutninger:
+
+	
+- [ ] Komplisert problemløsning
+	
+- [X] Stokastiske kjøpsbeslutninger
+	
+- [ ] Begrenset problemløsning
+	
+- [ ] Variasjonssøkende kjøpsatferd
+	
+- [ ] Rutinebeslutninger
+
+
+
+
+** DONE Spørsmål 2
+
+Når en bedrift baserer seg på målgruppetenkning, kundenes behov, integrert markedsføring og lønnsomhet, 
+kaller vi 
+
+- [ ]  Miljøorientert
+
+
+- [ ]  Konkurranseorientert
+
+
+- [ ]  Produksjonsorientert
+
+
+- [X]  Markedsorientert
+
+
+- [ ]  Salgsorientert
+
+
+
+** DONE Spørsmål 3 
+
+Hjemmet Egmont utgir bl.a. Baby Drøm, Familien, Foreldre og Barn og Vi Menn.  
+Basert på disse titlene kan du anta at forlaget:
+
+- [ ] Ikke opplever at de ulike bladene konkurrerer om de samme kundene
+
+- [ ] Bruker de samme journalistene til å skrive i alle bladene
+
+- [ ] Satser på udifferensiert strategi
+
+- [X] Bruker demografiske kriterier når de segmenterer markedet
+
+- [ ] Har like store segmenter for de forskjellig bladene
+
+
+** WAITING Spørsmål 4 1 poeng
+
+Utvalgsvarer kjennetegnes av visse karakteristika, et av de som er nevnt under er ikke et av dem:
+
+- [X]	Rutiner er viktige
+
+- [ ]   Flere butikker oppsøkes
+
+- [ ]   Vareprat er viktig
+
+- [ ]   Problemløsning
+
+- [ ]   Moden overveielse
+
+
+** DONE Spørsmål 5 1 poeng
+
+Når vi omtaler begrepet referansegrupper, referer vi vanligvis til to typer referansegrupper:
+
+- [ ]	Leverandør- og kundegrupper
+
+- [X] 	Primær- og sekundærgrupper
+
+- [ ] 	Fokusgrupper og intervjugrupper
+
+- [ ] 	Grossister og detaljister
+
+- [ ] 	Innovatører og etternølere
+
+** DONE Spørsmål 6 1 poeng
+I forhold til konkurrentene/markedsposisjonen kan en bedrift velge mellom følgende hovedstrategier.  Hvilken strategi er det ikke vanlig å regne med:
+
+- [X]	Prisstrategi
+
+- [ ]   Nisjestrategi
+
+- [ ]   Markedsutfordrerstrategi
+
+- [ ]   Markedslederstrategi
+
+- [ ]	Markedsetterfølgerstrategi
+
+** DONE Spørsmål 7 1 poeng
+
+Hvilket kriterium er ikke en del av de viktigste demografiske kriteriene:
+
+- [ ]	Kjønn
+
+- [ ]   Utdanning
+
+- [ ]   Livsstil
+
+- [X]   Sivilstand
+
+- [ ]   Alder
+
+** DONE Spørsmål 8 1 poeng
+
+I markedsplanleggingsprosessen etterfølges utvikling av markedsprogram av:
+
+- [X]	Ingen av delene
+
+- [ ]   Ekstern/Intern analyse
+
+- [ ]   Markedsmuligheter
+
+- [ ]   Markedsmål
+
+- [ ]   Overordnede mål/Visjon/Forretningside
+
+** DONE Spørsmål 9 1 poeng
+
+Med begrepet sekundærdata beskriver vi:
+
+- [ ]	Data av mindre betydning enn primærdata
+
+- [ ]   Data som er irrelevante
+
+- [ ]   Data som er foreldet
+
+- [X]   Data som allerede er samla inn og gjort tilgjengelige
+
+- [ ]   Data som alltid er gratis
+
+** DONE Spørsmål 10 1 poeng
+
+Hvilke av faktorene under kjennetegner ikke bedriftsmarkedet i forhold til forbrukermarkedet:
+
+- [ ]	Større kunder
+
+- [ ]   Profesjonelle innkjøp
+
+- [ ]   Geografisk konsentrasjon
+
+- [ ]   Avledet etterspørsel
+
+- [X]   Flere kunder
+
+** DONE Spørsmål 11 1 poeng
+
+Hva er ikke et typisk eksempel på en visjon?
+
+- [ ]	Markedsleder i Telemark i løpet av 2026
+
+- [ ]   Nordens beste netthandelsbutikk
+
+- [X]   Stort utvalg og lavere priser enn konkurrentene
+
+- [ ]   PG-Elektro skal være den beste installatøren i Bergen!
+
+- [ ]   Verdens fremste flyselskap
+ 
+
+
+** WAITING Spørsmål 12 1 poeng
+
+Prosessen som beskriver på hvilket tidspunkt individer aksepterer nye ideer kaller vi
+
+- [ ]	Involveringsprosessen
+
+- [ ]   Kjøpsprosessen
+
+- [ ]   Aksepteringsprosessen
+
+- [ ]   Innovasjonsprosessen
+
+- [X]   Adopsjonsprosessen
+
+
+** DONE Spørsmål 13 1 poeng
+......... er en indre tilstand som driver forbrukerne til å tilfredsstille behov
+
+- [ ]	Selektiv eksponering
+
+- [X]   Motivasjon
+
+- [ ]   Selektiv persepsjon
+
+- [ ]   Miljømessige stimuli
+
+- [ ]   Tolkning
+
+** DONE Spørsmål 14 1 poeng
+
+I vekstmatrisen til Igor Ansoff er det to akser:
+
+- [ ]	Markedskommunikasjon + Pris
+
+- [X]   Markeder + Produkter
+
+- [ ]   Styrker/svakheter + Muligheter/Trusler
+
+- [ ]   Markedsandel + markedsvekst
+
+- [ ]   Markedsorientering +Markedsføringskompetanse
+
+** DONE Spørsmål 15 1 poeng
+
+I modellen for kjøpsprosess på forbrukermarkedet inngår:
+Problemerkjennelse  Søkeprosess …………?………….. Valg  Resultat (hva mangler?)
+
+- [ ]	Holdningsendring
+
+- [X]   Vurdering av alternativ
+
+- [ ]   Samtale med venner og eller eksperter
+
+- [ ]   Utprøving
+
+- [ ]   Problemløsning
+
+** DONE Spørsmål 16 1 poeng
+
+Hvilket utsagn om markedsanalyser (MA) er mest korrekt:
+
+- [ ]	MA brukes kun for finne ut hvor kundene bor
+
+- [ ]   MA er orientert mot beslutninger
+
+- [X]   MA brukes primært for å analysere kundenes forbruksmønster
+
+- [ ]   MA kan bevise at en reklamekampanje var årsaken til økt salg
+
+- [ ]   MA eliminerer risikoen ved beslutningstaking
+
+** DONE Spørsmål 17 1 poeng
+
+Hvem som deltar i bedrifters kjøpsprosess avviker noe fra forbrukerne. Hvem er vanligvis ikke med i forbrukernes kjøpsprosess:
+
+- [ ]	Initiativtakere
+
+- [ ]   Innkjøpere
+
+- [X]   Portvakter
+
+- [ ]   Påvirkere
+
+- [ ]   Brukere
+
+** WAITING Spørsmål 18 1 poeng
+
+Markedsførere bruker ……………………… som virkemiddel for å avgjøre om og når de oppfyller sine markedsmål
+
+- [ ]	Diversifiseringsstrategier
+
+- [X]   Tilbakemelding og kontroll
+
+- [ ]   Markedspenetrering
+
+- [ ]   Konsolidering
+
+- [ ]   Demografi
+
+
+** DONE Spørsmål 19 1 poeng
+
+Nye regler for bruk av vannscootere gjør at en kan forvente mer salg av slike produkter i åra som kommer. For en importør som skal gjennomføre en SWOT-analyse vil denne regelendringen innebære:
+
+- [ ]	En trussel
+
+- [ ]   Ingen endring i den strategiske analysen
+
+- [X]   En mulighet
+
+- [ ]   En svakhet
+
+- [ ]   En styrke
+
+
+** DONE Spørsmål 20 1 poeng
+
+En del av markedsføringsaktiviteten skjer mellom ledelsen og de ansatte. Vi kaller dette:
+
+- [ ]  Intensiv markedsføring
+
+- [ ]  Mikromarkedsføring
+
+- [X]  Intern markedsføring
+
+- [ ]  Interaktiv markedsføring
+
+- [ ]  Inkluderende markedsføring
